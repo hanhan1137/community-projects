@@ -34,7 +34,7 @@ A source-linked directory of projects shared in the Nous Research Discord's [`#c
 
 | Project | What it is | Source | License / status |
 | --- | --- | --- | --- |
-| [TaskFuel image workflows](https://taskfuel.ai/blog/image-generation-models-for-ai-agents) | Hosted image-generation workflow service for agent-directed image tasks and approval-gated production. This is a commercial service, not a public code project in the showcase post. | [Product app](https://app.taskfuel.ai/) · [Discord post](https://discord.com/channels/1053877538025386074/1316137596535177246/1542092953680609350) | Hosted commercial service |
+| [TaskFuel image workflows](https://taskfuel.ai/blog/image-generation-models-for-ai-agents/) | Hosted image-generation workflow service for agent-directed image tasks and approval-gated production. This is a commercial service, not a public code project in the showcase post. | [Product app](https://app.taskfuel.ai/) · [Discord post](https://discord.com/channels/1053877538025386074/1316137596535177246/1542092953680609350) | Hosted commercial service |
 
 ## Contribute an entry
 
